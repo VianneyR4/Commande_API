@@ -1,0 +1,30 @@
+{
+    "name": "pitter",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/VianneyR4/Commande_API.git"
+    },
+    "keywords": [
+        "server",
+        "http",
+        "api",
+        "rest"
+    ],
+    "author": "Softworld.dev.community",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/VianneyR4/Commande_API/issues"
+    },
+    "homepage": "https://github.com/VianneyR4/Commande_API#readme",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.17.1"
+    }
+}
